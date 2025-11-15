@@ -81,10 +81,17 @@
 :scroll: Compliance & Governance
 
  :four::five: How do you ensure compliance in DevOps practices?
+ 
  :four::six: Explain your approach to change management.
+ 
 :bulb: Resource Management
+
  :four::seven: How do you optimize resource utilization?
+ 
  :four::eight: Explain your approach to capacity planning.
+ 
 :earth_africa: Disaster Recovery (Advanced)
+
  :four::nine: How do you implement cross-region failover?
+ 
  :five::zero: Explain your backup strategy across services.
