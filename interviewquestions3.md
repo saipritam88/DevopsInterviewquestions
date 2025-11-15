@@ -48,9 +48,15 @@ How do you deal with alert fatigue?
 :fire: Incident Management
 
  :one::six: Describe your incident response workflow.
+ 
  :one::seven: How do you conduct post-mortems after outages?
+ 
 :herb: Version Control & Git
+
  :one::eight: What branching strategy do you follow?
+ 
  :one::nine: How do you resolve merge conflicts within a team?
+ 
 :zap: Performance Optimization
+
  :two::zero: How do you detect and fix performance bottlenecks?
