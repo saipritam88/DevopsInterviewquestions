@@ -1,0 +1,20 @@
+:one: What does DevOps really mean beyond buzzwords?
+ :two: How do you choose between different CI/CD tools?
+ :three: Why pick Terraform over CloudFormation or Pulumi?
+ :four: CI vs CD — what’s the core difference?
+ :five: How do you manage secrets securely in pipelines?
+ :six: How much coding should a DevOps engineer know?
+ :seven: What’s the best way to learn Kubernetes without overwhelm?
+ :eight: How do you plan rollback strategies for production?
+ :nine: Which monitoring tools are essential today?
+ :keycap_ten: What’s the most common Terraform mistake?
+:one::one: How do you handle Terraform state locking in teams?
+ :one::two: What role does DevOps play in security (DevSecOps)?
+ :one::three: Deep-dive into one cloud or explore multiple?
+ :one::four: How do you design scalable and resilient infra?
+ :one::five: What’s your go-to method for debugging failed deployments?
+ :one::six: How do you stay updated with tools and trends?
+ :one::seven: When do you choose managed services vs self-hosted?
+ :one::eight: How do you work with non–cloud-native legacy systems?
+ :one::nine: What’s the balance between automation and manual control?
+ :two::zero: Which soft skills matter the most in DevOps?
